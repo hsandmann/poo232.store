@@ -1,6 +1,6 @@
 $(function() {
 
-    const API = 'http://localhost:8080';
+    const API = 'http://localhost:8081';
 
     $('#product_create').click(function() {
         var id = $('#product_id').val();
