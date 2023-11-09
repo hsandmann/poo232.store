@@ -1,5 +1,4 @@
 Gateway:
-
 [https://github.com/hsandmann/sb232.store.gateway](https://github.com/hsandmann/sb232.store.gateway)
 
 Discovery:
