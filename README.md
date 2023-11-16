@@ -6,5 +6,5 @@ https://github.com/hsandmann/sb232.store.discovery
 
 |  Microserviço |  | 
 |---|---|
-| Product | [https://github.com/hsandmann/sb232.store.product](https://github.com/hsandmann/sb232.store.product) |
+| Product | [https://github.com/hsandmann/sb232.store.product](https://github.com/hsandmann/sb232.store.product) [https://github.com/hsandmann/sb232.store.product.interface](https://github.com/hsandmann/sb232.store.product.interface) |
 | Customer | [https://github.com/hsandmann/sb232.store.customer](https://github.com/hsandmann/sb232.store.customer) |
