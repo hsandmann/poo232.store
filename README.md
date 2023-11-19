@@ -1,8 +1,9 @@
-Gateway:
-[https://github.com/hsandmann/sb232.store.gateway](https://github.com/hsandmann/sb232.store.gateway)
 
-Discovery:
-https://github.com/hsandmann/sb232.store.discovery
+|  Plataforma | Implementação |
+|---|---|
+| Gateway | [sb232.store.gateway](https://github.com/hsandmann/sb232.store.gateway) |
+| Discovery | [sb232.store.discovery](https://github.com/hsandmann/sb232.store.discovery) |
+| Configuration | [sb232.store.configuration]() |
 
 |  Microserviço | Interface | Implementação |
 |---|---|---|
