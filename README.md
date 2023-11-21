@@ -9,4 +9,5 @@
 |---|---|---|
 | Order | [sb232.store.order](https://github.com/hsandmann/sb232.store.order) | [sb232.store.order.interface](https://github.com/hsandmann/sb232.store.order.interface) |
 | Product | [sb232.store.product](https://github.com/hsandmann/sb232.store.product) | [sb232.store.product.interface](https://github.com/hsandmann/sb232.store.product.interface) |
-| Customer | [sb232.store.customer](https://github.com/hsandmann/sb232.store.customer) | [sb232.store.customer.interface](https://github.com/hsandmann/sb232.store.customer.interface) |
+| Customer | [sb232.store.customer](https://github.com/hsandmann/sb232.store.customer) | [sb232.store.customer.interface](https://github.com/hsandmann/sb232.store.customer.interface) 
+| Auth | [sb232.store.auth](https://github.com/hsandmann/sb232.store.auth) | [sb232.store.auth.interface](https://github.com/hsandmann/sb232.store.auth.interface) |
