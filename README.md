@@ -1,4 +1,8 @@
 
+| Repositório | Descrição |
+|---|---|
+| [Docker Compose](https://github.com/hsandmann/sb232.store.docker) | `docker-compose up --build` |
+
 |  Microserviço | Implementação |
 |---|---|
 | Gateway | [sb232.store.gateway](https://github.com/hsandmann/sb232.store.gateway) |
